@@ -1,2 +1,3 @@
-# advent-of-code-2023
-Advent of Code 2023 using Julia
+# Advent of code 2023
+
+Advent of Code 2023 using Julia.
